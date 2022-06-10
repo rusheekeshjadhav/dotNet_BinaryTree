@@ -1,0 +1,11 @@
+D:\dotnet\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\dotnet\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\dotnet\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\dotnet\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
